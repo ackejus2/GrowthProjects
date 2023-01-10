@@ -13,4 +13,4 @@ I used Python to write this program.
 
 # Helpful Websites
 
-*[Markdown Guide] https://www.markdownguide.org/cheat-sheet/
+Markdown Guide https://www.markdownguide.org/cheat-sheet/
